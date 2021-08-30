@@ -5,20 +5,19 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动文档
 ```
-npm run serve
+npm run dev
 ```
 
-### Compiles and minifies for production
+### 上传组件编译
 ```
-npm run build
+npm run lib
+
+npm publish
 ```
 
 ### Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
